@@ -1,0 +1,22 @@
+# Library Management System 📚
+
+My first Java project using OOP, Data Structures, and SOLID principles.
+
+## Features
+- Add, view, update, delete books
+- Search books
+- User management
+- Borrow and return books
+- Library reports
+- Input validation
+
+## Technologies
+- Java
+- OOP
+- ArrayList
+- HashMap
+- HashSet
+- SOLID Principles
+
+## First Project 🎓
+This is my first Java project, built as a final project while learning Java OOP and Data Structures.
